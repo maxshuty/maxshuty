@@ -1,4 +1,4 @@
-![Hey there, I'm Max. Tinkerer. Creator. Dad joke teller. Accessibility matters. Checkout some of my work below...](https://github.com/maxshuty/maxshuty/blob/main/maxs-profile-animation.gif)
+![Hey there, I'm Max. Tinkerer. Creator. Dad joke teller. Accessibility matters. Checkout my work below...](https://github.com/maxshuty/maxshuty/blob/main/maxs-profile-animation.gif)
 
 I am a software developer with a passion for accessibility & frontend development using technologies like Vue/Vuex & React/Redux.
 
