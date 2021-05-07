@@ -1,3 +1,17 @@
+<!--- 
+
+# Hey there, I'm Max and you've found my Easter Egg! This text does not display on GitHub's README, only if you view the source ;)  
+
+I'm assuming you're here trying to figure out the secret to adding the animation to my profile or how I added this README to my profile all together...
+
+## Are you trying to figure out how I did the animation on my profile?
+- Here is the pen I (sloppily) threw together https://codepen.io/maxshuty/pen/NWpWGpj by combining a couple other pens to create the animation, then I simply used a screencapture tool to convert it to a gif (pronounced jiff, but we can fight about that later). Finally I uploaded the file to my maxshuty/maxshuty repo where this README resides. The implementation is simple enough below.
+
+## How did I add the README to my GitHub page?
+- It's super simple. Go create a new repository and name it identical to your GitHub username and click the "Add README.md" button. After that you can edit the README directly in your browser or clone the repo and edit in your favorite IDE. 
+
+--->
+
 ![Hey there, I'm Max. Tinkerer. Creator. Dad joke teller. Accessibility matters. Checkout my work below...](https://github.com/maxshuty/maxshuty/blob/main/maxs-profile-animation.gif)
 
 I am a software developer with a passion for accessibility & frontend development using technologies like Vue/Vuex & React/Redux.
