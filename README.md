@@ -1,8 +1,8 @@
 <!--- 
 
-# Hey there, I'm Max and you've found my Easter Egg! This text does not display on GitHub's README, only if you view the source ;)  
+# Hey there, I'm Max and you've found an Easter Egg! This text does not display on GitHub's README, only if you view the source ;)  
 
-I'm assuming you're here trying to figure out the secret to adding the animation to my profile or how I added this README to my profile all together...
+I'm assuming you're here trying to figure out the secret to how I added this README to my profile, or how I added the animation to my profile.
 
 ## Are you trying to figure out how I did the animation on my profile?
 - Here is the pen I (sloppily) threw together https://codepen.io/maxshuty/pen/NWpWGpj by combining a couple other pens to create the animation, then I simply used a screencapture tool to convert it to a gif (pronounced jiff, but we can fight about that later). Finally I uploaded the file to my maxshuty/maxshuty repo where this README resides. The implementation is simple enough below.
