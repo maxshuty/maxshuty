@@ -20,4 +20,4 @@ I believe that we should be designing with accessibility at the top of our minds
 
 When learning something new I enjoy diving in and trying to apply my new found knowledge like when I wrote a simple-to-use lazy loading plugin called [SimplyLazy](https://github.com/maxshuty/simply-lazy) in order to learn more about the `IntersectionObserver` API. It's a simple, lightweight (0.6kb), pure JavaScript image lazy loader that even works in IE (with a polyfil) and even has a few handy callbacks!
 
-If you're super curious about all of this then 01110110 01101001 01100101 01110111 00100000 01010010 01000001 01010111
+Curious? 01110110 01101001 01100101 01110111 00100000 01010010 01000001 01010111
