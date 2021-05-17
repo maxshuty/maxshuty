@@ -11,7 +11,7 @@ I'm assuming you're trying to figure out how I added this README to my profile, 
 - Here is the pen I quickly threw together https://codepen.io/maxshuty/pen/NWpWGpj by combining a couple other pens to create the animation, then I simply used a screencapture tool to convert it to a gif (pronounced jiff, but we can fight about that later). Finally I uploaded the file to my maxshuty/maxshuty repo where this README resides. The implementation is simple enough below.
 
 ## Contact me
-- If you would like to reach me you can at my first name (Max) plus my last name (Poshusta) at Googles email domain.
+- If you would like to reach me you can reach me at my first name (Max) plus my last name (Poshusta) at Googles email domain.
 
 --->
 
