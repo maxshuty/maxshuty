@@ -19,7 +19,7 @@ I'm assuming you're trying to figure out how I added this README to my profile, 
 
 I am a software developer with a passion for accessibility & frontend development using technologies like Vue/Vuex & React/Redux.
 
-### Find me on the Web 🌎:
+### Find me on the Web 🌎 :
 - [LinkedIn](https://www.linkedin.com/in/maxposhusta)
 - [StackOverflow](https://stackoverflow.com/users/4826740/maxshuty)
 
