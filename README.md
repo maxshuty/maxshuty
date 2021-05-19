@@ -20,10 +20,12 @@ I'm assuming you're trying to figure out how I added this README to my profile, 
 I am a software developer with a passion for accessibility & frontend development using technologies like Vue/Vuex & React/Redux.
 
 ### Find me on the Web 🌎 :
-- [LinkedIn](https://www.linkedin.com/in/maxposhusta)
-- [StackOverflow](https://stackoverflow.com/users/4826740/maxshuty)
+- See where I've been lately on [LinkedIn](https://www.linkedin.com/in/maxposhusta)
+- Checkout my [StackOverflow](https://stackoverflow.com/users/4826740/maxshuty) profile to see what technology I've been geeking out over
 
-I believe that we should be designing with accessibility at the top of our minds to ensure we are creating an accessible web to create an equal experience for everyone. I enjoy helping answer questions on StackOverflow like [this solution](https://stackoverflow.com/a/58570835/4826740) to pure CSS accessible checkboxes and radio buttons that I wrote. I also find myself [answering](https://stackoverflow.com/questions/67356599/the-deep-selector-is-not-working-using-sass-loader-in-my-vuejs-application) my own questions or trying to find [better solutions](https://stackoverflow.com/questions/40730116/scroll-to-bottom-of-div-with-vue-js/57661780#57661780) to old problems.
+I believe that we should be designing with accessibility at the top of our minds to ensure we are creating an accessible web to create an equal experience for everyone. 
+
+I enjoy helping answer questions on StackOverflow like [this solution](https://stackoverflow.com/a/58570835/4826740) to pure CSS accessible checkboxes and radio buttons that I wrote. I also find myself [answering](https://stackoverflow.com/questions/67356599/the-deep-selector-is-not-working-using-sass-loader-in-my-vuejs-application) my own questions or trying to find [better solutions](https://stackoverflow.com/questions/40730116/scroll-to-bottom-of-div-with-vue-js/57661780#57661780) to age-old problems.
 
 When learning something new I enjoy diving in and trying to apply my new found knowledge like when I wrote a simple-to-use lazy loading plugin called [SimplyLazy](https://github.com/maxshuty/simply-lazy) in order to learn more about the `IntersectionObserver` API. It's a simple, lightweight (0.6kb), pure JavaScript image lazy loader that even works in IE (with a polyfil) and even has a few handy callbacks!
 
