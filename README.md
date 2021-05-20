@@ -17,10 +17,10 @@ I'm assuming you're trying to figure out how I added this README to my profile, 
 
 ![Hey there, I'm Max. Tinkerer. Creator. Dad joke teller. Accessibility matters. Checkout my work below...](https://github.com/maxshuty/maxshuty/blob/main/maxs-profile-animation.gif)
 
-I am a software developer with a passion for accessibility & frontend development using technologies like Vue/Vuex & React/Redux.
+I am a software developer with full stack experience & a passion for following accessibility standards & frontend development using technologies like Vue/Vuex & React/Redux.
 
 ### Find me on the Web 🌎 :
-- See where I've been lately on [LinkedIn](https://www.linkedin.com/in/maxposhusta)
+- See what I've been up to lately on [LinkedIn](https://www.linkedin.com/in/maxposhusta)
 - Checkout my [StackOverflow](https://stackoverflow.com/users/4826740/maxshuty) profile to see what technology I've been geeking out over
 
 I believe that we should be designing with accessibility at the top of our minds to ensure we are creating an accessible web to create an equal experience for everyone. 
