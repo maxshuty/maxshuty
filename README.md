@@ -1,7 +1,6 @@
 <!--- 
 # You've found an Easter Egg! This text does not display on GitHub's README, only if you view the RAW source ;)  
 
-
 ## Hey there, I'm Max 
 
 I'm assuming you're trying to figure out how I added this README to my profile, or how I added the animation to my profile.
