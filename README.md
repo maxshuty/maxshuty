@@ -1,5 +1,5 @@
 <!--- 
-# You've found an Easter Egg! This text does not display on GitHub's README, only if you view the RAW source ;)  
+# You've found an Easter Egg! This text does not display on GitHub's README, it only displays if you view the RAW source ;)  
 - I'm assuming you're trying to figure out how I added this README to my profile, or how I added the animation to my profile.
 
 ## How did I add the README to my GitHub page?
