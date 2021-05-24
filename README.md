@@ -5,7 +5,7 @@
 ## How did I add the README to my GitHub page?
 - It's super simple. Go create a new repository and name it identical to your GitHub username and click the "Add README.md" button. Now you can edit the README directly in your browser or clone the repo and edit in your favorite IDE. 
 
-## Are you trying to figure out how I did the animation on my profile?
+## Want to know how I did the animation on my profile?
 - Here is the pen I quickly threw together https://codepen.io/maxshuty/pen/NWpWGpj by combining a couple other pens to create the animation, then I simply used a screencapture tool to convert it to a gif (pronounced jiff, but we can fight about that later). Finally I uploaded the file to my maxshuty/maxshuty repo where this README resides. The implementation is simple enough below.
 
 ## Contact me
