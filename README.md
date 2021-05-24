@@ -15,7 +15,7 @@
 
 ![Hey there, I'm Max. Tinkerer. Creator. Dad joke teller. Accessibility matters. Checkout my work below...](https://github.com/maxshuty/maxshuty/blob/main/maxs-profile-animation.gif)
 
-I am a software developer with full stack experience & a passion for following accessibility ♿  standards & frontend development using technologies like Vue/Vuex & React/Redux.
+I am a software developer with full stack experience & a passion for following accessibility ♿   standards & frontend development using technologies like Vue/Vuex & React/Redux.
 
 ### Find me on the Web 🌎 :
 - See what I've been up to lately on [LinkedIn](https://www.linkedin.com/in/maxposhusta)
