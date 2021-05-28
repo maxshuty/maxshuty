@@ -21,6 +21,10 @@ I am a software developer with full stack experience & a passion for following a
 - See what I've been up to lately on [LinkedIn](https://www.linkedin.com/in/maxposhusta)
 - Checkout my [StackOverflow](https://stackoverflow.com/users/4826740/maxshuty) profile to see what technology I've been geeking out over
 
+
+### Passionate about:
+- Accessibility
+- Frontend development utilizing great technology like VueJS and ReactJS
 I believe that we should be designing with accessibility at the top of our minds to ensure we are creating an accessible web to create an equal experience for everyone. 
 
 I enjoy helping answer questions on StackOverflow like [this solution](https://stackoverflow.com/a/58570835/4826740) to pure CSS accessible checkboxes and radio buttons that I wrote. I also find myself [answering](https://stackoverflow.com/questions/67356599/the-deep-selector-is-not-working-using-sass-loader-in-my-vuejs-application) my own questions or trying to find [better solutions](https://stackoverflow.com/questions/40730116/scroll-to-bottom-of-div-with-vue-js/57661780#57661780) to age-old problems.
