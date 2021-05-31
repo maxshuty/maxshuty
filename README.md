@@ -25,6 +25,7 @@ I am a software developer with full stack experience & a passion for following a
 ### Passionate about:
 - Accessibility
 - Frontend development utilizing great technology like VueJS and ReactJS
+- Solving exciting problems with no straightforward solution
 
 I believe that we should be designing with accessibility at the top of our minds to ensure we are creating an accessible web to create an equal experience for everyone. 
 
