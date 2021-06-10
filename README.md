@@ -25,7 +25,7 @@ I am a software developer with full stack experience & a passion for following a
 ### Passionate about:
 - ♿ Accessibility, I believe that we should be designing with accessibility at the top of our minds to ensure we are creating an equal experience for everyone
 - 🤓 Frontend development utilizing great technology like VueJS and ReactJS
-- Solving exciting problems without a straightforward solution
+- 🧙 Solving exciting problems without a straightforward solution
 
 I enjoy helping answer questions on StackOverflow. I believe in quality over quantity, having reached over **2.6 million** people in just over 100 answers like [this solution](https://stackoverflow.com/a/58570835/4826740) to pure CSS accessible checkboxes and radio buttons that I wrote. Sometimes I find myself [answering](https://stackoverflow.com/questions/67356599/the-deep-selector-is-not-working-using-sass-loader-in-my-vuejs-application) my own questions or trying to find [better solutions](https://stackoverflow.com/questions/40730116/scroll-to-bottom-of-div-with-vue-js/57661780#57661780) to age-old problems.
 
