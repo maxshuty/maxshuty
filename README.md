@@ -1,6 +1,6 @@
 <!--- 
 # Hey! You've found an Easter Egg, this text only displays if you view the RAW source :)
-- I'm assuming you're trying to figure out how I added this README to my profile, or how I added the animation to my profile... search no more!
+- Want to know how I added this README to my profile, or how I added the animation to my profile... search no more!
 
 ## Want to add a README like this to your profile page?
 - It's super simple. All you need to do is create a new repository and name it identical to your GitHub username and click the "Add README.md" button. Now you can edit the README directly in your browser or clone the repo and edit in your favorite IDE. 
