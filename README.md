@@ -29,6 +29,6 @@ Software developer with full stack experience and a passion for creating **acces
 
 I enjoy helping answer questions on StackOverflow. I believe in quality over quantity, having reached over **2.7 million** people in just over 100 answers like [this solution](https://stackoverflow.com/a/58570835/4826740) to pure CSS accessible checkboxes and radio buttons that I wrote. Sometimes I find myself [answering](https://stackoverflow.com/questions/67356599/the-deep-selector-is-not-working-using-sass-loader-in-my-vuejs-application) my own questions or trying to find [better solutions](https://stackoverflow.com/questions/40730116/scroll-to-bottom-of-div-with-vue-js/57661780#57661780) to age-old problems.
 
-When learning something new I enjoy diving in and applying my new found knowledge. This is what lead me to develop [**SimplyLazy**](https://github.com/maxshuty/simply-lazy) in order to learn more about the `IntersectionObserver` API. It's a simple, lightweight (0.6kb), pure JavaScript image lazy loader that even works in IE (with a simple polyfil) and even has a few handy callbacks!
+When learning something new I enjoy diving in and applying my new found knowledge. This is what lead me to develop [**SimplyLazy**](https://github.com/maxshuty/simply-lazy) in order to learn more about the `IntersectionObserver` API. It's a simple, lightweight (0.6kb), pure JavaScript image lazy loader that even works in IE* (_*with a simple polyfil_) and even has a few handy callbacks!
 
 Curious? 01110110 01101001 01100101 01110111 00100000 01010010 01000001 01010111
