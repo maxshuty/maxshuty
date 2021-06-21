@@ -17,7 +17,7 @@
 
 Software developer with full stack experience and a passion for creating **accessibile** UI's & frontend development using technologies like Vue/Vuex & React/Redux.
 
-### Find me on the Web 🌎 :
+### Find me on the Web 🌎:
 - See what I've been up to lately on [LinkedIn](https://www.linkedin.com/in/maxposhusta)
 - Checkout my [StackOverflow](https://stackoverflow.com/users/4826740/maxshuty) profile to see what technology I've been geeking out over
 
