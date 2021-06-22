@@ -1,5 +1,5 @@
 <!--- 
-# Hey there! You've found an Easter Egg, this text only displays if you view the RAW source of this README :)
+# Hey there! You've found an Easter Egg, this message only displays if you view the RAW source of this README :)
 - Want to know how I added this README to my profile or how I added the animation to my profile... search no more!
 
 ## Want to add a README like this to your profile page?
