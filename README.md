@@ -31,4 +31,4 @@ I enjoy helping answer questions on StackOverflow. I believe in quality over qua
 
 When learning something new I enjoy diving in and applying my new found knowledge. This is what lead me to develop [**SimplyLazy**](https://github.com/maxshuty/simply-lazy) to learn more about the `IntersectionObserver` API. It's a simple, lightweight (0.6kb), pure JavaScript image lazy loader that even works in IE* (_*with a simple polyfil_) and even has a few handy callbacks!
 
-Curious? 01110110 01101001 01100101 01110111 00100000 01010010 01000001 01010111
+Still curious? 01110110 01101001 01100101 01110111 00100000 01010010 01000001 01010111
