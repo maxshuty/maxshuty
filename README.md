@@ -5,7 +5,7 @@
 ## Want to add a README like this one to your profile page?
 - It's super simple. All you need to do is create a new repository and name it identical to your GitHub username. Then click the "Add README.md" button. Now you can edit the README directly in your browser. Alternatively you can clone the repo and edit it in your favorite IDE. 
 
-## Want to know how I did the .gif animation on my profile?
+## Want to know how I did the .gif (jiff) animation on my profile?
 - Here is a code pen I threw together https://codepen.io/maxshuty/pen/NWpWGpj by combining two other pens from some awesome developers to create the animation. Then I used a screen capture tool to convert it to a .gif (pronounced jiff, but we can fight about that later). Finally I uploaded the file to my `maxshuty/maxshuty` repo where this README resides. The implementation is simple enough below.
 
 ## Contact me
