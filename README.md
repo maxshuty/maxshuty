@@ -13,7 +13,7 @@
 
 --->
 
-![Hey there, I'm Max. Tinkerer. Creator. Dad joke teller. Accessibility matters. Checkout my work below...](https://github.com/maxshuty/maxshuty/blob/main/maxs-profile-animation.gif)
+![Hey there, I'm Max. I'm a Tinkerer. Creator. Dad joke teller. Accessibility matters. Checkout my work below...](https://github.com/maxshuty/maxshuty/blob/main/maxs-profile-animation.gif)
 
 Software developer with full stack experience and a passion for creating **accessibile** UI's & a passion for frontend development using technologies like Vue/Vuex & React/Redux.
 
