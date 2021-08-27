@@ -6,7 +6,7 @@
 - It's super simple. All you need to do is create a new repository and name it identical to your GitHub username. Then click the "Add README.md" button. Now you can edit the README directly in your browser or you can clone the repo and edit it in your favorite IDE. 
 
 ## Want to know how I did the .gif (jiff) animation on my profile?
-- Here is a fiddle I threw together https://codepen.io/maxshuty/pen/NWpWGpj. I combined two other fiddles from some awesome developers to create this animation. Then I used a screen capture tool to convert it to a .gif (pronounced jiff, but we can fight about that later). Finally I uploaded the file to my `maxshuty/maxshuty` repo where this README resides. The implementation is as simple as ![Alt message](url-to-gif.gif)
+- Here is a fiddle I threw together https://codepen.io/maxshuty/pen/NWpWGpj. I combined two other fiddles from some other awesome developers to create this animation. Then I used a screen capture tool to convert it to a .gif (pronounced jiff, but we can fight about that later). Finally I uploaded the file to my `maxshuty/maxshuty` repo where this README resides. The implementation is as simple as ![Alt message](url-to-gif.gif)
 
 ## Contact me
 - If you would like to contact me you can reach me via email at my first name (Max) plus my last name (Poshusta) at Googles email domain (period or not between the names, either one works).
