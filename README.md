@@ -9,7 +9,7 @@
 - Here is a fiddle I threw together https://codepen.io/maxshuty/pen/NWpWGpj. I combined two other fiddles from some other awesome developers to create this animation. Then I used a screen capture tool to convert it to a .gif (pronounced jiff, but we can fight about that later). Finally I uploaded the file to my `maxshuty/maxshuty` repo where this README resides. The implementation is as simple as ![Alt message](url-to-gif.gif)
 
 ## Contact me
-- If you would like to contact me you can reach me via email at my first name (Max) plus my last name (Poshusta) at Googles email domain (period or not between the names, either one works).
+- If you would like to contact me you can reach me via email at my first name (Max) plus my last name (Poshusta) at Googles email domain (period or not between the names, either one will works).
 
 --->
 
