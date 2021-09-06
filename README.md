@@ -19,7 +19,7 @@ Software developer with full stack experience and a passion for creating **acces
 
 ### Find me on the Web 🌎:
 - See what I've been up to lately on [LinkedIn](https://www.linkedin.com/in/maxposhusta)
-- Checkout my [StackOverflow](https://stackoverflow.com/users/4826740/maxshuty) profile to see what technology I've been geeking out over
+- Checkout my [StackOverflow](https://stackoverflow.com/users/4826740/maxshuty) profile to see what technologi I've been geeking out over
 
 
 ### Passionate about:
