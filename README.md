@@ -19,6 +19,8 @@
 
 Software developer with full stack experience and a passion for creating **accessibile** UI's & a passion for frontend development using technologies like Vue/Vuex & React/Redux.
 
+Booleans are nice because if you are wrong then you're only off by a bit.
+
 ### Find me on the Web 🌎:
 - See what I've been up to lately on [LinkedIn](https://www.linkedin.com/in/maxposhusta)
 - Checkout my [StackOverflow](https://stackoverflow.com/users/4826740/maxshuty) profile to see what technologies I've been geeking out over
