@@ -39,5 +39,5 @@ When learning something new I enjoy diving in and applying my new found knowledg
 
 For the curious... 01110110 01101001 01100101 01110111 00100000 01010010 01000001 01010111  
 
-A 
+A teeny 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxshuty)](https://git.io/streak-stats)
