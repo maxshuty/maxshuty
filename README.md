@@ -38,3 +38,5 @@ I enjoy answering questions on StackOverflow - I believe in quality over quantit
 When learning something new I enjoy diving in and applying my new found knowledge! This is what lead me to develop a lazy loader called [**SimplyLazy**](https://github.com/maxshuty/simply-lazy) to learn more about the `IntersectionObserver` API. It's a simple, super lightweight (0.6kb), pure JavaScript image lazy loader that even works in IE* (_*with a simple polyfill of course because it's IE_) and it even has a few handy callbacks you'll love!
 
 For the curious... 01110110 01101001 01100101 01110111 00100000 01010010 01000001 01010111  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxshuty)](https://git.io/streak-stats)
