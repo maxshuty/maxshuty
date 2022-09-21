@@ -15,11 +15,11 @@
 
 ![Hey there, I'm Max. I'm a Tinkerer, creator, and Dad joke teller. Accessibility matters. Checkout my work below...](https://github.com/maxshuty/maxshuty/blob/main/maxs-profile-animation.gif)
 
-## A person who chooses not to read is no different than someone who can't.
+# Accessibility is not a feature
 
-Software developer with full stack experience and a passion for creating **accessibile** UI's & a passion for frontend development using technologies like Vue/Vuex & React/Redux.
+Software developer with full stack experience and a passion for creating **accessibile** UI's & a passion for frontend development using technologies like Vue/Vuex & React/Redux. I believe a person who chooses not to read is no different than someone who can't.
 
-Booleans are nice because if you are wrong then you're only off by a bit.
+Also... booleans are nice because if you are wrong then you're only off by a bit.
 
 ### Find me on the Web 🌎:
 - See what I've been up to lately on [LinkedIn](https://www.linkedin.com/in/maxposhusta)
