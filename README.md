@@ -11,7 +11,7 @@
 ## Contact me
 - If you would like to contact me you can reach me via email at my first name (Max) plus my last name (Poshusta) at Googles email domain (period or not between the names, either one will get to me).
 --->
- 
+
 ![Hey there, I'm Max. I'm a Tinkerer, creator, and Dad joke teller. Accessibility matters. Checkout my work below...](https://github.com/maxshuty/maxshuty/blob/main/maxs-profile-animation.gif)
 
 # Accessibility is not a feature
