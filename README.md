@@ -24,7 +24,6 @@ Also... booleans are nice because if you are wrong then you're only off by a bit
 - See what I've been up to lately on [LinkedIn](https://www.linkedin.com/in/maxposhusta)
 - Checkout my [StackOverflow](https://stackoverflow.com/users/4826740/maxshuty) profile to see what technologies I've been geeking out over
 
-
 ### Passionate about:
 - ♿ Accessibility. I believe that we should be designing with accessibility at the top of our minds to ensure we are creating an equal experience for all users
 - 🤓 Frontend development utilizing fun tech like VueJS and ReactJS
