@@ -20,7 +20,7 @@ Software developer with full stack experience and a passion for creating **acces
 
 Also... booleans are nice because if you are wrong then you're only off by a bit.
 
-# Developer of your favorite puzzle game, Cubify!
+### Developer of your favorite puzzle game, Cubify!
 - iOS "Cubify!": https://apps.apple.com/us/app/cubify/id6464666615
 - Android "Cubify": https://play.google.com/store/apps/details?id=com.maplerope.cubify
 
