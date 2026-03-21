@@ -36,10 +36,6 @@ Also... booleans are nice because if you are wrong then you're only off by a bit
 - 🤓 Frontend development utilizing fun tech like VueJS and ReactJS
 - 🧙 Solving challenging problems without a straightforward solution
 
-I enjoy answering questions on StackOverflow - I believe in quality over quantity, having reached over **4 million** people in just over 130 answers like [this solution](https://stackoverflow.com/a/58570835/4826740) to pure CSS accessible checkboxes and radio buttons that I wrote. Sometimes I find myself [answering](https://stackoverflow.com/questions/67356599/the-deep-selector-is-not-working-using-sass-loader-in-my-vuejs-application) my own questions or trying to find [better solutions](https://stackoverflow.com/questions/40730116/scroll-to-bottom-of-div-with-vue-js/57661780#57661780) to age-old problems. I also enjoy helping perform moderation tasks like reviewing posts for quality and helping new users learn how to ask a proper question on StackOverflow.
-
-[![Stack Overflow flair with my personal user stats](https://stackoverflow.com/users/flair/4826740.png)](https://stackoverflow.com/users/4826740/maxshuty)
-
 When learning something new I enjoy diving in and applying my new found knowledge! This is what lead me to develop a lazy loader called [**SimplyLazy**](https://github.com/maxshuty/simply-lazy) to learn more about the `IntersectionObserver` API. It's a simple, super lightweight (0.6kb), pure JavaScript image lazy loader that even works in IE* (_*with a simple polyfill of course because it's IE_) and it even has a few handy callbacks you'll love!
 
 For the curious... 01110110 01101001 01100101 01110111 00100000 01010010 01000001 01010111  
